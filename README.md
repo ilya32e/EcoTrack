@@ -452,6 +452,3 @@ python scripts/check_db.py     # Diagnostic BD
 - **Port conflict** : Voir TROUBLESHOOTING.md section "Address already in use"
 
 
-=======
-# EcoTrack
->>>>>>> 4f80ee60fd10f50d1b88efa1b114def08e2917bb
