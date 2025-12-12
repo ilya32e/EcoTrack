@@ -1,0 +1,19 @@
+# User requested ignores
+.venv
+.pytest_cache
+
+# Python
+__pycache__
+*.py[cod]
+*.so
+.env
+.env.*
+!.env.example
+ecotrack.db
+
+# Node
+node_modules
+dist
+build
+.DS_Store
+Thumbs.db
